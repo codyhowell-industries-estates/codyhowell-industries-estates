@@ -23,6 +23,9 @@ My focus is on designing **structured, scalable systems** rather than isolated t
 ### 🧩 Jarvis – Modular AI Operations System
 A system designed to route tasks across specialized AI modules for automation, diagnostics, and structured assistance.
 
+### 📚 Penny – AI Education Assistant
+An adaptive learning system that generates structured lessons, quizzes, and personalized learning paths.
+
 ### 🔐 Cybersecurity Toolkit
 A collection of tools focused on system diagnostics, monitoring, and troubleshooting workflows.
 
